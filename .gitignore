@@ -1,0 +1,12 @@
+score.py
+gurobi.log
+google-hash-code-2018_unix
+model.lp
+model.sol
+out
+.ipynb_checkpoints
+main
+__pycache__/
+delays.py
+
+
